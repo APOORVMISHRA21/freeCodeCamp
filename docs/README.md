@@ -1,7 +1,1 @@
-<!--
-
-This file should not be translated.
-
--->
-
-> ### If you are getting started, [you should read our contributing guidelines](/CONTRIBUTING.md) first.
+MONGO_URI='mongodb+srv://admin:6813378dima@cluster0-2qeus.gcp.mongodb.net/test?retryWrites=true&w=majority'
